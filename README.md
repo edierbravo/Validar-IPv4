@@ -2,7 +2,7 @@
 
 ## Por: Edier Dario Bravo Bravo
 
-Ingrese a este [enlace](https://edierbra.github.io/Validar-IPv4/) para ver su funcionamiento.
+Ingrese a este [enlace](https://edierbravo.github.io/Validar-IPv4/) para ver su funcionamiento.
 
 ### Requisitos
 
